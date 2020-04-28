@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<service name="lobster">
+    <client name="Danik"/>
+    <orders status="adopted"/>
+    <time hours="00" minutes="01" seconds="35"/>
+    <feedback review="fast"/>
+</service>
