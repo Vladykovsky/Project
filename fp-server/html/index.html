@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Orders food</title>
+<meta charset="utf-8">
+<style>
+    .active{
+        width: 400px;
+        height: auto;
+    }
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+    td{
+        padding:5px;
+    }
+    caption{
+        width: 200px;
+    }
+    th{
+        padding:5px;
+    }
+</style>
+</head>
+<body>
+<h1>Orders food</h1>
+<html>
+    <head>
+        <style>
+            .item {
+                max-width: 230px;
+            }
+        </style>
+    </head>
+<body>
+
+    <!--#include virtual="/app/feedback"-->
+    <br>
+    <!--#include virtual="/app/who"-->
+    <!--#include virtual="/app/mark"-->
+    
+    <div id="well-known"/>
+    </div>
+    
+
+    <h3>Who ordered it?</h3>
+    <!--#include virtual="/app/who"-->
+    <h3>Orders evaluation</h3>
+    <!--#include virtual="/app/mark"-->
+    <template id="date">
+      <div>
+          {{#each date}}
+            <span>{{term}}</span>
+            <span>{{day}}</span>
+            <span>{{month}}</span>
+          {{/each}}
+      </div>
+    </template>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.4.2/handlebars.js"></script>
+<script>
+    var date = document.getElementById('date').innerHTML;
+    var renderDate = Handlebars.compile(date);
+    document.getElementById('well-known').innerHTML = renderDate({date: [{"year": "day": "01","month": "april"}]});
+</script>
+</html>
+
+</body>
+</html>

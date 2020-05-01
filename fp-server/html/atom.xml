@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Top rewiews</title>
+    <link href="https://www.theguardian.com/food/restaurants+tone/reviews"/>
+    <updated>2020-03-28T18:30:02Z</updated>
+    <author>
+        <name>Rewiews</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+    <entry>
+        <title>Chain reaction: the ups and downs of Britain’s high street stalwarts</title>
+        <link href="https://www.theguardian.com/food/2020/apr/26/chain-reaction-the-ups-and-downs-of-britains-high-street-stalwarts"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <updated>2020-03-28T18:30:02Z</updated>
+        <summary>I am old enough to remember the Wimpy chain in its 1970s table-service pomp: ketchup squirted from plastic tomatoes, with a red congealed scab around the nozzle to pick at when you were bored, and a menu item called a Bender Brunch, featuring two sausage rings and absolutely no awareness of current playground slang. There was also the Golden Egg, a mildly polished greasy spoon chain which colonised British high streets in the 1960s, with its egg-shaped menu of egg-heavy dishes</summary>
+        <category term="SARS-CoV-2" label="SARS-CoV-2"></category>
+    </entry>
+
+    <entry>
+        <title>Haenyeo, Brooklyn: ‘An evolved take on the Korean repertoire</title>
+        <link href="https://www.theguardian.com/food/2020/mar/29/jay-rayner-restaurant-review-haenyeo-brooklyn-jenny-kwak-union-street-cafe-red-rooster"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa66</id>
+        <updated>2020-03-27T14:30:02Z</updated>
+        <summary>A couple of weeks ago, at a jaunty restaurant called Quality Eats on East 28th Street in Manhattan, I was served an outrageous dish of thick-cut sweet-cure bacon on a savoury puddle of crunchy peanut butter, with a spiky jalapeño jelly and diced cucumber. It felt like a take on a breadless peanut butter and jelly sandwich. With added bacon, always a good idea. It also felt like culinary self-parody – a big, bold, edible New York joke. If any British chef would like to nick this joke, I’d be grateful because I’d like to laugh at it again.</summary>
+        <category term="SARS-CoV-2" label="SARS-CoV-2"></category>
+    </entry>
+
+    <entry>
+        <title>Bastible, Dublin: ‘It’s clever, detailed and will make you thrillingly giddy</title>
+        <link href="https://www.theguardian.com/food/2020/mar/15/jay-rayner-restaurant-review-dublin-bastible-clever-detailed-and-importantly-tastes-nice"/>
+        <id>urn:uuid:1225c695-cfb8-3ebb-aaaa-80da344efa66</id>
+        <updated>2020-03-27T11:30:02Z</updated>
+        <summary>At Bastible in Dublin, each dish comes with a commentary. Somehow, it manages to improve the experience, rather than make you squeeze the edge of your seat until your knuckles are white. Early on chef Cúán Greene delivers a small, rough-hewn ceramic dish to the table. There’s a pillow of dried lemon verbena leaves overlaid with greaseproof paper upon which perch four curving, layered pieces of pearly kohlrabi, interleaved with sorrel leaves. The kohlrabi, we are told, has been marinated in quince vinegar. “It’s a kind of chilled salad in finger-food form,” Greene says, cheerfully. He’s not wrong: it’s crisp and boldly refreshing. It’s also clever without being irritatingly, look-at-me distracting. Most importantly it tastes nice."</summary>
+        <category term="SARS-CoV-2" label="SARS-CoV-2"></category>
+    </entry>
+</feed>
