@@ -25,7 +25,7 @@
     "cross-env": "^7.0.2",
     "genversion": "^2.2.1",
     "should": "^7.1.0",
-    "supertest": "^1.0.0",
+    "supertest": "^6.3.3",
     "versiony": "^2.0.1"
   },
   "scripts": {
